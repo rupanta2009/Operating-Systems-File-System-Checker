@@ -1,11 +1,5 @@
-#Program		: ASSIGNMENT 2 (FILE SYSTEM CHECKER)
 #Name			: RUPANTA RWITEEJ DUTTA
-#Email Address		: rrd300@nyu.edu
 #Date of Creation	: 11.21.2015
-#School			: NYU Tandon School of Engineering
-#NYU ID			: N15786532
-#Net ID			: rrd300
-#Subject		: Introduction to Operating System
 
 #import os.path
 import time
